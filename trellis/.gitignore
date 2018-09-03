@@ -1,4 +1,5 @@
 .vault_pass
+.vagrant
 vagrant.local.yml
 vendor/roles
 *.py[co]
